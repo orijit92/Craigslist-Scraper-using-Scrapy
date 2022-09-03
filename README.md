@@ -1,13 +1,13 @@
 # Craigslist-Scraper-using-Scrapy
 
-##Goal
+## Goal
 
 The goal of this project is to crawl and collect data on a cragislist page using a spider on python.
 
-##Craiglist Page URL
+## Craiglist Page URL
 https://seattle.craigslist.org/search/est/cta
 
-##Data to Collect
+## Data to Collect
 - Title
 - Price
 - Neighborhood
